@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SAO)(type Legacy)(uri ${KIPRJMOD}/libs/SAO.lib)(options "")(descr ""))
+  (lib (name tinypico)(type Legacy)(uri E:/Dropbox/GitHub/SAO-Rocket/libs/tinypico.lib)(options "")(descr ""))
+)
